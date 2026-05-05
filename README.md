@@ -18,9 +18,6 @@
   <img src="https://raw.githubusercontent.com/mohamedsalahabdelhamid/Pizza-Sales-Dashboard/main/Screenshot%202026-04-27%20170516.png" width="900" alt="Pizza Dashboard Screenshot 1"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedsalahabdelhamid/Pizza-Sales-Dashboard/main/Screenshot%202026-03-04%20182701.png" width="900" alt="Pizza Dashboard Screenshot 2"/>
-</p>
 
 ---
 
