@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=analytics&logoColor=white" alt="DAX"/>
 </p>
 
 ---
